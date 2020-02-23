@@ -1,6 +1,10 @@
 # Todo List Application
 This is a todo list application to organize daily task
 
+## Screenshot
+
+![](todo.jpg)
+
 ## Features
 
 * Lightweight and fast
